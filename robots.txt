@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olerse.github.io/a/sitemap.html
+Sitemap: https://olerse.github.io/b/sitemap.html
+Sitemap: https://olerse.github.io/c/sitemap.html
+Sitemap: https://olerse.github.io/d/sitemap.html
